@@ -225,7 +225,7 @@ ul {
 	border-top: 0;
 }
 
-#main i{
+#main i.citation{
 	font-size: 0.8em;
 	font-weight: lighter;
 }
