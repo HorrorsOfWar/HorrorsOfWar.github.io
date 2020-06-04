@@ -187,6 +187,7 @@ ul {
 	margin: 30px 0 0 0;
 	width: 1180px;
 	color: #d5d6e3;
+	font-family: serif;
 }
 
 #main a {
@@ -195,7 +196,7 @@ ul {
 
 #main p{
 	font-size: 1.15em;
-	margin-left: 200px;
+	margin-left: 250px;
 	text-align: left;
 }
 
@@ -216,12 +217,17 @@ ul {
 
 #main ul li {
 	padding: 10px 0 10px 0;
-	border-top: dashed 1px #bfbfbf;
+	border-top: solid 1px #bfbfbf;
 }
 
 #main ul li.first {
 	padding-top: 0;
 	border-top: 0;
+}
+
+#main i{
+	font-size: 0.8em;
+	font-weight: lighter;
 }
 
 #nav {
